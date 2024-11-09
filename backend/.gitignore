@@ -1,0 +1,3 @@
+/code/env
+*.pyc
+/code/__pycache__
